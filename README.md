@@ -1,4 +1,4 @@
-# 🛒 E-commerce Sales Analysis – Diwali Sales
+# 🛒 E-Commerce Diwali Sales Analysis
 
 ## 📖 Overview
 
